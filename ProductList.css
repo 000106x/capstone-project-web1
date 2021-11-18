@@ -1,0 +1,197 @@
+﻿:root {
+    --nav-height: 70px;
+    --search-bar: 40px;
+    --icon-size: 25px;
+    --color-text: #7D7177;
+    --color-pink-darker: #ff7575;
+    --color-pink-lighter: #ffe2e2;
+    --color-gray-lighter: #f6f6f6;
+    --color-white: white;
+    --color-footer-link: #737373;
+}
+/*TRANG PRODUCTLIST*/
+.container0 {
+    min-height:1300px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 4% 17% 74% 5%;
+}
+
+.categoryname {
+    padding: 20px;
+    margin: 10px 0;
+    color: var(--color-pink-darker);
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: 35px;
+    border-bottom: 2px solid var(--color-gray-lighter);
+}
+
+.submenu__nav {
+    width: 250px;
+    height: auto;
+}
+.submenu {
+    width: 14rem;
+    height: 15rem;
+    position: fixed;
+    background-color: var(--color-gray-lighter);
+    top: calc(var(--nav-height) + 5%);
+    overflow-x: hidden;
+    padding: 10px 0px 0px 20px;
+    margin:5px 0px 0px 10px;
+    vertical-align: top;
+    border-radius: 5px;
+    line-height: 2rem;
+}
+.submenu__heading {
+    text-transform: uppercase;
+    color: var(--color-pink-darker);
+}
+.submenu input {
+    border: hidden;
+    font-size: 20px;
+    outline: none;
+}
+.submenu__item:hover {
+    color: var(--color-pink-darker);
+    cursor: pointer;
+    padding-top: 5px;
+    font-weight: bold;
+}
+/*HET TRANG PORDUCTLIST*/
+
+/*TRANG ALLPRODUCTLIST*/
+
+.container1 {
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+}
+
+.mother, .title {
+    height: 100px;
+    font-size: 35px;
+    font-weight: bolder;
+    vertical-align: bottom;
+    color: var(--color-pink-darker);
+}
+
+.product .label, .product .space {
+    border: none;
+    text-align: left;
+    color: var(--color-pink-darker);
+    font-size: 40px;
+    background-color: white;
+    font-weight: bolder;
+    padding-top: 40px;
+    margin: 0px 0px 30px 0px;
+    border-bottom: 2px solid var(--color-gray-lighter);
+}
+
+.product .space{
+    border:none;
+}
+
+.product .space:hover{
+    border:none;
+}
+
+.product .seeMoreButton {
+    border: none;
+    background-color: white;
+    padding-top: 40px;
+    margin: 0px 0px 30px 0px;
+    vertical-align:bottom;
+}
+
+.product .seeMoreButton button{
+    background-color:white;
+    border:none;
+    font-size: 20px;
+    transition-duration: 0.3s;
+}
+
+.product .seeMoreButton button:hover{
+    background-color:white;
+    transform: scale(1.2);
+}
+
+.product .label:hover, .product .seeMoreButton:hover {
+    border:none;
+    border-bottom: 1px solid black;
+}
+
+
+
+/*HẾT TRANG ALLPRODUCTLIST*/
+
+
+/*PRODUCT*/
+
+.product {
+    padding:10px;
+    display:grid;
+    grid-template-columns: repeat(4, 25%);
+    border:hidden;
+}
+
+.product div {
+    margin-bottom:30px; 
+    margin-right:10px;
+    margin-left:10px;
+    padding:5px;
+    background-color:#ffefef;
+    border-radius:1px;
+    
+    
+}
+.product div:hover{
+    border:1px solid gray;
+}
+
+.addButton, .buyButton {
+    padding: 6px;
+    margin: 3px;
+    width: 90%;
+    border: none;
+    background-color: pink;
+    font-size: 20px;
+    border-radius: 2px;
+    transition-duration: 0.3s;
+
+}
+.addButton:hover, .buyButton:hover {
+    background-color:#808080;
+    transform: scale(1.2);
+}
+
+.detailsButton {
+    background-color: #ffefef;
+    font-size: 18px;
+    padding: 5px 5px 10px 5px;
+    margin-bottom: 6px;
+    border: none;
+    transition-duration: 0.3s;
+    font-weight: bolder;
+}
+
+.detailsButton:hover {
+    transform: scale(1.2);
+}
+
+.detailsButton img {
+    width: 190px;
+    height: 190px;
+}
+
+.buyButton {
+    background-color:lightpink;
+}
+
+.addButton {
+    background-color:palevioletred;
+}
+
+
+/*HẾT PRODUCT*/
+

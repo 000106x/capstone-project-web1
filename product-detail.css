@@ -1,0 +1,119 @@
+:root {
+    --color-pink-darker: #ff7575;
+    --color-pink-lighter: #ffe2e2;
+    --color-gray-lighter: #f6f6f6;
+    --color-gray-darker: rgba(209, 205, 205, 0.911);
+    --color-white: white;
+    --color-grey2: rgb(48, 47, 47);
+}
+
+.product-detail-container {
+    box-sizing: border-box;
+}
+/* ZOOM ẢNH */
+div.zoom {
+    background-position: 50% 50%;
+    width: 430px;
+    overflow: hidden;
+    cursor: zoom-in;
+}
+
+    div.zoom img:hover {
+        opacity: 0;
+    }
+
+    div.zoom img {
+        transition: opacity 0.5s;
+        display: block;
+        width: 100%;
+    }
+/* CSS TRANG */
+#product-detail-container {
+    font-family: 'Cabin', sans-serif;
+    font-size: 1.2rem;
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-top: 150px;
+}
+
+.prod-info {
+    display: flex;
+    flex-direction: row;
+}
+
+.prod-detail-left {
+    border: 1px solid #ddd;
+    margin-left: 50px;
+}
+
+.prod-detail-right {
+    color: var(--color-grey2);
+    margin-top: 10px;
+    margin-left: 70px;
+    line-height: 50px;
+}
+
+    .prod-detail-right span {
+        color: black;
+        font-weight: 700;
+        font-size: 1.2rem;
+    }
+
+    .prod-detail-right .productname, .prod-detail-right .productprice {
+        color: var(--color-pink-darker);
+    }
+    
+    .prod-detail-right .productname {
+        font-size: 1.7rem;
+    }
+    .prod-detail-right input {
+        font-size: 1.2rem;
+        width: 60px;
+        border: 1px solid #ddd;
+        height: 35px;
+        text-align: center;
+    }
+
+.prod-detail-btn #addtocart, #buynow {
+    background-color: var(--color-gray-lighter);
+    border: 2px solid var(--color-grey2);
+    color: var(--color-grey2);
+    width: 250px;
+    height: 60px;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.prod-detail-btn #buynow {
+    margin-left: 15px;
+    margin-top: 60px;
+}
+
+.prod-detail-btn #addtocart:hover, #buynow:hover {
+    background-color: pink;
+    border: 2px solid var(--color-grey2);
+    color: var(--color-grey2);
+}
+
+.prod-detail-bottom {
+    margin-top: 70px;
+    color: var(--color-grey2);
+}
+
+    .prod-detail-bottom h4 {
+        margin-top: 5px;
+        background-color: var(--color-gray-darker);
+    }
+
+.prod-description {
+    border: 1px solid #ddd;
+    background-color: var(--color-gray-darker);
+    height: 35px;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.detail-content {
+    margin-top: 25px;
+    font-size: 1.1rem;
+}
