@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<products>
+	<product>
+		<id>000</id>
+		<name>Bayer Dermaleen - Dầu tắm thảo dược 3 trong 1</name>
+		<price>250000</price>
+		<description>Dung tích : 250 ml - Thành phần - Trong 100 ml chứa: 2-bromo - 2 - nitropropane - 1, 3-diol: 0, 2 gDichlorobenzyl alcohol: 0, 05 gDung dịch biosulphur: 1 gSedaplant Richter: 1 g </description>
+		<image>/image/products/id000/000.jpg</image>
+		<pet>Cat</pet>
+		<category>furniture</category>
+		<brand>Bayer</brand>
+	</product>
+	<product>
+		<id>001</id>
+		<name>Thức ăn hạt Catsrang cho mèo mọi lứa tuổi 400gr</name>
+		<price>50000</price>
+		<description>Catsrang phù hợp cho mèo mọi lứa tuổi - Với đặc tính dễ tiêu, hạt Catsrang giúp mèo đi phân rắn và giảm thiểu mùi hôi khó chịu. - Ngăn ngừa lông vón cục trong ruột mèo. - Hàm lượng dinh dưỡng cân bằng, Catsrang phù hợp trong việc cải thiện da lông, phòng tránh bệnh quáng gà ở mèo. - Sử dụng protein cao cấp tốt cho hệ tiêu hóa. - Đặc biệt, sản phẩm không sử dụng chất bảo quản, chất kháng sinh, phẩm màu hay hương liệu nhân tạo khác.</description>
+		<image>/image/products/id001/001.jpg</image>
+		<pet>Cat</pet>
+		<category>food</category>
+		<brand>Catsrang</brand>
+	</product>
+	<product>
+		<id>002</id>
+		<name>Ferplast Atlas Deluxe - Lồng vận chuyển</name>
+		<price>159000</price>
+		<description>Sản phẩm được sản xuất từ loại nhựa cứng rất an toàn khi vận chuyển mèo. Cùng với thiết kê cửa sổ thoáng khí thông minh tạo sự thoải mái khi chó mèo ở bên trong. - * Kích thước: 51 x 30 x 34 cm(dài * rộng * cao)</description>
+		<image>/image/products/id002/002.jpg</image>
+		<pet>Cat</pet>
+		<category>furniture</category>
+		<brand>Catsrang</brand>
+	</product>
+	<product>
+		<id>003</id>
+		<name>Áo phao lót bông cho thú cưng gấu trắng màu đỏ S</name>
+		<price>95000</price>
+		<description>Áo phao lót bông cho mèo thú cưng là sản phẩm không thể thiếu khi mùa đông về. Boss sẽ trông thật sành điệu nhưng không kém phần ấm áp khi khoác lên mình, - Bảng size tham khảo: S: 1, 2kg - 2, 5kg dài lưng ~25cm.  M : 2.5kg - 3.5kg dài lưng ~30cm. L : 3, 5kg - 4.5kg dài lưng ~35cm.  XL : 4, 5kg - 7kg dài lưng ~40cm. XXL : 7 - 10kg dài lưng ~45cm</description>
+		<image>/image/products/id003/003.jpg</image>
+		<pet>Cat</pet>
+		<category>clothes</category>
+		<brand>Bayer</brand>
+	</product>
+	<product>
+		<id>004</id>
+		<name>Đồ chơi rubber hình tạ có chuông</name>
+		<price>50000</price>
+		<description>Bạn đang đau đầu khi thú cưng thường xuyên cắn phá các đồ đạc trong nhà? Bạn cần tìm một sản phẩm an toàn, mẫu mã đẹp, chất lượng Châu Âu nhưng giá cả phải chăng? Bạn là người Việt Nam, thích dùng hàng Việt Nam? Bạn cần sắm ngay cho bé Đồ chơi Rubber T hình tạ có chuông</description>
+		<image>/image/products/id004/004.jpg</image>
+		<pet>Cat</pet>
+		<category>toy</category>
+		<brand>Bayer</brand>
+	</product>
+	<product>
+		<id>005</id>
+		<name>Yếm đinh hoa PetStar 29*33cm</name>
+		<price>100000</price>
+		<description>Yếm đính hoa PetStar cho chó mèo, kiểu dáng và màu sắc đẹp, hấp dẫn thú cưng nhà bạn, chất liệu bền, chắc chắn. - Thiết kế đáng yêu.Cực kỳ chắc chắn, yếm mềm đính hoa là “người phụ tá” đắc lực và lý tưởng giúp bạn dễ dàng “quản lý” các chú cún hiếu động và tinh nghịch.</description>
+		<image>/image/products/id005/005.jpg</image>
+		<pet>Cat</pet>
+		<category>accessory</category>
+		<brand>Davis</brand>
+	</product>
+	<product>
+		<id>006</id>
+		<name>Đồ chơi con chuột, banh lăn làm cho mèo </name>
+		<price>48000</price>
+		<description>Giúp cho mèo nhà bạn được thư giãn. - Chất liệu: Nhựa. - Kích thước: 30cm</description>
+		<image>/image/products/id006/006.jpg</image>
+		<pet>Cat</pet>
+		<category>toy</category>
+		<brand>Davis</brand>
+	</product>
+	<product>
+		<id>007</id>
+		<name>Pate Monge cá hồi và lê 100g dành cho Chó</name>
+		<price>29000</price>
+		<description>Trọng lượng: 100gr. - Thành phần dinh dưỡng: Đạm thô 9%, dầu và chất béo 7%, chất tro 1, 2%, chất xơ 0.5%, độ ẩm 82%, chất làm đặc, vitamin A 3000U.I./ Kg, vitamin D3 400U.I./ Kg, vitamin E 15mg / Kg. - Công dụng: - Đây là sản phẩm giàu đạm, cung cấp canxi và các vi khuẩn có lợi từ phô mai.Giúp bổ sung các dưỡng chất cần thiết cho cơ thể, hỗ trợ quá trình tạo máu, làm chú chó luôn cảm thấy thật khỏe mạnh và thư giãn. - Sản phẩm giàu dinh dưỡng, giúp thúc đẩy sự phát triển toàn diện cho chó con và bổ sung các dưỡng chất cần thiết cho chó</description>
+		<image>/image/products/id007/007.jpg</image>
+		<pet>Dog</pet>
+		<category>food</category>
+		<brand>Flexi</brand>
+	</product>
+	<product>
+		<id>008</id>
+		<name>Sốt chó lớn vị gà , gan nướng và rau</name>
+		<price>12000</price>
+		<description>Thức Ăn Cho Chó Pedigree 80g có công thức với từng miếng thịt mềm trong nước sốt cho hương vị thơm ngon mà những chú chó cực kì yêu thích. Một chế độ dinh dưỡng đầy đủ và cân bằng bao gồm các vitamin, khoáng chất, canxi, protein, chất xơ và omega cho cơ thể các chú cún có một sức khỏe toàn diện, bảo đảm sự phát triển cả về thể chất lẫn ngoại hình. - Thông tin sản phẩm: 80g x 1 gói. - Thành phần: Thịt gà, nước thịt, vitamin C, A, D, D3, B2, B12, B6, E và vitamin B1, khoáng chất như canxi, đồng sulfat, kẽm, kali clorua, sắt, nghệ, chiết xuất trà xanh và muối i- ốt.</description>
+		<image>/image/products/id008/008.jpg</image>
+		<pet>Dog</pet>
+		<category>food</category>
+		<brand>Davis</brand>
+	</product>
+	<product>
+		<id>009</id>
+		<name>Khớp da nhỏ (rọ mõm) cho chó màu đen</name>
+		<price>43000</price>
+		<description>Rọ mõm da nhỏ: + Chiếc rọ mõm  sẽ là một phụ kiện không thể thiếu giúp đảm bảo an toàn cho những người xung quanh khi bạn đưa cún yêu đến những nơi công cộng + Với thiết kế chắc chắn nhưng mềm mại, đồng thời đầu rọ được đục nhiều lỗ nhỏ thông khí, rọ mõm ABC sẽ mang đến cho chú cún cưng của bạn cảm giác thật thoải mái khi đeo. - ĐẶC ĐIỂM NỔI BẬT: - Thiết kế mềm mại và đầu rọ được đục nhiều lỗ nhỏ thông khí giúp mang đến cho chú cún cưng cảm giác thoải mái và êm ái khi đeo. - 2 lớp chắc chắn bảo đảm độ bền cho sản phẩm.</description>
+		<image>/image/products/id009/009.jpg</image>
+		<pet>Dog</pet>
+		<category>accessory</category>
+		<brand>Flexi</brand>
+	</product>
+	<product>
+		<id>010</id>
+		<name>Ferplast Ergofluo - Vòng cổ 1.5cm (cam)</name>
+		<price>71000</price>
+		<description>Ferplast Ergofluo là dòng sản phẩm với thiết kế độc quyền, có hệ thống điều chỉnh chi tiết và tháo gỡ dễ dàng kèm với đó là miếng đệm trong êm ái. Sản phẩm có nhiều size với độ dài từ 25 - 60cm, bản rộng 15 - 25mm dành cho chó có cân nặng khoảng 20 - 60kg.</description>
+		<image>/image/products/id010/010.jpg</image>
+		<pet>Dog</pet>
+		<category>accessory</category>
+		<brand>Davis</brand>
+	</product>
+	<product>
+		<id>011</id>
+		<name>[M]Áo phao lót lông cho thú cưng họa tiết </name>
+		<price>99000</price>
+		<description>Áo phao lót bông cho mèo thú cưng là sản phẩm không thể thiếu khi mùa đông về. Boss sẽ trông thật sành điệu nhưng không kém phần ấm áp khi khoác lên mình, - Bảng size tham khảo - S: 1, 2kg - 2, 5kg dài lưng ~25cm. - M : 2.5kg - 3.5kg dài lưng ~30cm. - L : 3, 5kg - 4.5kg dài lưng ~35cm. - XL : 4, 5kg - 7kg dài lưng ~40cm. - XXL : 7 - 10kg dài lưng ~45cm</description>
+		<image>/image/products/id011/011.jpg</image>
+		<pet>Dog</pet>
+		<category>clothes</category>
+		<brand>Farmina</brand>
+	</product>
+	<product>
+		<id>012</id>
+		<name>Mũ lưỡi chai Hello Stranger (màu đen)</name>
+		<price>146000</price>
+		<description>Mũ thời trang cho chó mèo, màu sắc và kiểu dáng đẹp, chất liệu mềm mại, êm ái, không kích ứng da, nhiều size cho mọi cỡ.  Chiếc mũ tạo cho thú cưng nhà bạn trông dễ thương hơn khi đi chơi</description>
+		<image>/image/products/id012/012.jpg</image>
+		<pet>Dog</pet>
+		<category>clothes</category>
+		<brand>Farmina</brand>
+	</product>
+	<product>
+		<id>013</id>
+		<name>Mon Ami Toy Vinyl - Đồ chơi chó nhai giày</name>
+		<price>69000</price>
+		<description>Hình ảnh đồ chơi đã nói lên tất cả. Chó rất thích nhai mọi thứ, đặc biệt là chó con. Thay vì đánh phạt chúng, bạn hãy cho chó một một đồ chơi đủ hấp dẫn, chúng sẽ từ bỏ món giày dép đầy tẻ nhạt của bạn sớm thôi. - Ngoài ra, món đồ chơi này còn chăm sóc sức khỏe răng miệng cho chó thay một chiếc bàn chải qua quá trình vui chơi. - Được sản xuất từ cao su tự nhiên với độ cứng vừa phải</description>
+		<image>/image/id013/013.jpg</image>
+		<pet>Dog</pet>
+		<category>toy</category>
+		<brand>Farmina</brand>
+	</product>
+	<product>
+		<id>014</id>
+		<name>Nhà lều Angry birds cho chó (size M)</name>
+		<price>1300000</price>
+		<description>ĐẶC ĐIỂM NỔI BẬT: - Ngôi nhà được làm từ chất liệu cotton thông thoáng, dễ vệ sinh và phù hợp với khí hậu nóng ẩm ở Việt Nam. - Bề mặt nằm có lớp lót cotton êm cùng thiết kế hình ngôi nhà với 3 mặt bao quanh nhằm tạo cho thú cưng của bạn cảm giác được che chở an toàn và ấm áp. - Nhà cho thú cưng sử dụng gam màu nổi bật kết hợp với những đường kẻ sọc cá tính, đây chắc chắn sẽ là nơi thư giãn lý tưởng, làm hài lòng những chú cún con xinh xắn. - Kích thước: 40 * 40 * 45cm</description>
+		<image>/image/products/id014/014.jpg</image>
+		<pet>Dog</pet>
+		<category>furniture</category>
+		<brand>Farmina</brand>
+	</product>
+	<product>
+		<id>015</id>
+		<name>Nhà nhựa lớn cao cấp 78x62x78cm</name>
+		<price>980000</price>
+		<description>Nhà nhựa cao cấp cho chó mèo, kiểu dáng và màu sắc đẹp, hấp dẫn thú cưng nhà bạn, chất liệu bền, chắc chắn, bán rẻ nhất - Kích thước: 78x62x78cm - Tháo rời, lắp ráp được. - Hàng đặt làm",</description>
+		<image>/image/products/id015/015.jpg</image>
+		<pet>Dog</pet>
+		<category>furniture</category>
+		<brand>Doggyman</brand>
+	</product>
+	<product>
+		<id>016</id>
+		<name>Calcium Sleeky 140g cho cún con yêu</name>
+		<price>136000</price>
+		<description>Là món ăn yêu thích của cún. Mỗi ngày từ 5-10 viên để hỗ trợ các chức năng khác nhau trong một cơ thể chó, bao gồm cả hệ thần kinh, hệ tuần hoàn, trao đổi chất, da, mắt, miệng, hệ thống sinh sản, lông thú, và nhiều hơn nữa. - Thànhphần: Calcium, Phosphorus, Vitamin D3, Soy Protein … - Trọng lượng: 140g. - Xuất xứ: Thái Lan</description>
+		<image>/image/products/id016/016.jpg</image>
+		<pet>Dog</pet>
+		<category>others</category>
+		<brand>Doggyman</brand>
+	</product>
+	<product>
+		<id>017</id>
+		<name>Vòng cổ chuông hoa 1.5cm cho chó con </name>
+		<price>390000</price>
+		<description>Vòng cổ chuông  cho chó mèo, kiểu dáng và màu sắc đẹp, hấp dẫn thú cưng nhà bạn, chất liệu bền, chắc chắn, bán rẻ nhất</description>
+		<image>/image/products/id017/017.jpg</image>
+		<pet>Dog</pet>
+		<category>accessory</category>
+		<brand>Doggyman</brand>
+	</product>
+	<product>
+		<id>018</id>
+		<name>Ferplast Atlas Trendy - Lồng vận chuyển chó</name>
+		<price>400000</price>
+		<description>Sản phẩm thích hợp cho chó nhỏ và mèo, rất tiện lợi khi mang đi du lịch. Chất liệu lồng bằng nhựa cao cấp thoáng mát và cửa khung thép chắc chắn, cầm chắc tay. - Size S: 48 x 33 x 29 cm</description>
+		<image>/image/products/id018/018.jpg</image>
+		<pet>Dog</pet>
+		<category>furniture</category>
+		<brand>Doggyman</brand>
+	</product>
+	<product>
+		<id>019</id>
+		<name>Xương sữa 4 2C / Vỉ (Giảm tích tụ thức ăn)"</name>
+		<price>50000</price>
+		<description>Lợi ích của việc cho cún gặm xương Gnawler : ♦ Giúp làm giảm cao răng tích tụ: Xương Gnawler giúp giảm 80 % so với những chú chó không có thói quen nhai xương sạch răng chuyên dụng. ♦ Làm sạch kẽ răng và lợi: nhai xương Gnawler sẽ giúp hàm răng của chúng sạch sẽ hơn bình thường, đặc biệt là các kẽ răng và lợi. ♦ Giúp những chú chó nhà bạn không cắn phá linh tinh: Xương gnawler giống như 1 món ăn vặt hàng ngày giúp chó cưng nhà bạn không buồn chán, không cắn phá đồ vật trong nhà, không bị đói và ăn uống lung tung.  ♦ Nhìn hấp dẫn với chó cưng: Do được thiết kế hình que xương nên xương Gnawler nhìn sẽ vô cùng hấp dẫn với chó cưng nhà bạn.</description>
+		<image>/image/products/id019/019.jpg</image>
+		<pet>Dog</pet>
+		<category>food</category>
+		<brand>Doggyman</brand>
+	</product>
+  <product>
+    <id>020</id>
+    <name>Súp thưởng Ciao vị cá ngừ và sò điệp khối lượng 80g </name>
+    <price>60000</price>
+    <description>Thành phần: Cá ngừ, chất tạo mùi (hương sò điệp), protein thủy phân, Oligosaccharide, dầu thực vật, tinh bột chế biến, chất kết dính, Vitamin E, chất tạo màu, chiết xuất trà xanh. - Thành phần dinh dưỡng:Độ ẩm ≤ 91,0 %; Protein thô ≥ 7,0 %; Béo thô ≥ 0,2 %; Xơ thô ≤ 4,0%, Khoáng tổng số ≤ 2,0 %.</description>
+    <image>/image/products/id020/020.jpg</image>
+    <pet>Dog</pet>
+    <category>food</category>
+    <brand>Doggyman</brand>
+  </product>
+  <product>
+    <id>021</id>
+    <name>Pedigree - Thức ăn vặt cho chó vị bò xông khói</name>
+    <price>58000</price>
+    <description>Thịt Meat Jerky hương vị bò xông khói là một món ăn ngon hảo hạng mà con chó của bạn sẽ thích có bất kỳ thời gian nào trong ngày. Các lát thịt mỏng được cắt thẳng rất tốt cho sức khỏe của cún nhà bạn. Sản phẩm cung cấp protein, chất béo, carbohydrate, chất xơ, vitamin và khoáng chất, cung cấp đầy đủ chất dinh dưỡng cho chó. Thịt Jerky phù hợp tất cả các giống chó trên 3 tháng tuổi.</description>
+    <image>/image/products/id021/021.jpg</image>
+    <pet>Dog</pet>
+    <category>food</category>
+    <brand>Farmina</brand>
+  </product>
+  <product>
+    <id>022</id>
+    <name>Dr.Kyan Predogen - Sữa bột cho chó khối lượng 110g</name>
+    <price>130000</price>
+    <description>Đối với chó yêu sữa đóng một vai trò rất quan trọng sau khi chào đời và trong cả quá trình phát triển sau này, sữa có thể cung cấp những dưỡng chất đặc biệt mà các thực phẩm khác không có. - Sữa bột dành cho chó PREdogEN được sản xuất theo công thức của WONDERLIFE PHARMA  (mỹ) là một thực phẩm bổ dưỡng cho chó yêu của bạn ngoài những thức ăn thông thường, giúp chó yêu cảm thấy ngon miệng hơn, bồi bổ cơ thể và cung cấp những thứ cần thiết để phát triển toàn diện.</description>
+    <image>/image/products/id022/022.jpg</image>
+    <pet>Dog</pet>
+    <category>food</category>
+    <brand>Flexi</brand>
+  </product>
+  <product>
+    <id>023</id>
+    <name>Áo trụ thêu chanel xanh size 7 chất liệu lụa mềm</name>
+    <price>200000</price>
+    <description>Với thiết kế tinh tế của áo thun, Boss sẽ nổi bật và ấm áp hơn khi cùng Sen dạo phố đón những cơn gió đầu mùa.</description>
+    <image>/image/products/id023/023.jpg</image>
+    <pet>Dog</pet>
+    <category>clothes</category>
+    <brand>Bayer</brand>
+  </product>
+  <product>
+    <id>024</id>
+    <name>Petstar - Choker đeo cổ cho thú cưng nhiều màu</name>
+    <price>324000</price>
+    <description>Choker đeo cổ cho thú cưng. - Nhiều kiểu dáng và màu sắc, Đặt online giao hàng ngẫu nhiên</description>
+    <image>/image/products/id024/024.jpg</image>
+    <pet>Dog</pet>
+    <category>accessory</category>
+    <brand>Bayer</brand>
+  </product>
+  <product>
+    <id>025</id>
+    <name>Myp - Rọ mõm mỏ vịt silicon size S bằng nhựa</name>
+    <price>50000</price>
+    <description>Khi dắt một chú chó đi dạo, bạn sợ chúng sẽ ăn linh tinh khi bạn không để mắt đến hoặc khi gặp vật lạ chúng sẽ sủa làm mọi người xung quanh sợ hãi, thì bạn hãy sắm ngay cho chúng một chiếc rọ mõm nhé. Một chiếc rọ mõm sẽ ngăn chặn việc: chúng ăn lung tung, sủa, hay cắn những con vật khác…. một cách hiệu quả. Chiếc rọ mõm này được làm từ vật liệu nhựa an toàn, có đai điều chỉnh kích thước, có hình chiếc mỏ vịt ngộ ngĩnh , xinh xắn. Khí đeo vào, chắc chắn chú cún của bạn sẽ có 1 cái “mỏ vịt” rất nổi bật và đáng yêu đấy. Sản phẩm phù hợp với các chú cún</description>
+    <image>/image/products/id025/025.jpg</image>
+    <pet>Dog</pet>
+    <category>accessory</category>
+    <brand>Davis</brand>
+  </product>
+  <product>
+    <id>026</id>
+    <name>Túi + kẹp hốt phân Piqapoo 20pcs cho chó size S</name>
+    <price>170000</price>
+    <description> Với những người sở hữu một chú chó hoặc bất cứ ai xui xẻo từng phải vật lộn với mớ hỗn độn mà chúng gây ra thì Piqapoo sẽ là một trong những sản phẩm hữu ích và tiềm năng nhất. - Piqapoo là một chiếc kẹp mềm gắn vào đuôi các chú chó . Khi chúng đi vệ sinh, phân rơi vào một cái túi, thứ sau đó bạn có thể ném đi một cách dễ dàng. Và dĩ nhiên, bạn sẽ không cần phải dùng đến tay để hốt cho chúng nữa.</description>
+    <image>/image/products/id026/026.jpg</image>
+    <pet>Dog</pet>
+    <category>toy</category>
+    <brand>Davis</brand>
+  </product>
+  <product>
+    <id>027</id>
+    <name>Đồ chơi rubber hình cầu mây màu đỏ nhựa cao cấp</name>
+    <price>10000</price>
+    <description>Cầu mây là một môn thể thao vận động rất tốt cho cơ thể. Điều này vẫn đúng đối với vật nuôi của bạn. Những quả cầu mây xinh xắn và đầy màu sắc đến từ thương hiệu Đồ chơi Rubber T của PetCity, chắc chắn sẽ kích thích trí tò mò của bé nhà bạn.</description>
+    <image>/image/products/id027/027.jpg</image>
+    <pet>Dog</pet>
+    <category>Toy</category>
+    <brand>Flexi</brand>
+  </product>
+  <product>
+    <id>028</id>
+    <name>Nhà hình quả dưa hấu lớn ABC xanh chất liệu cotton </name>
+    <price>400000</price>
+    <description>- Ngôi nhà được làm từ chất liệu cotton thông thoáng, dễ vệ sinh và phù hợp với khí hậu nóng ẩm ở Việt Nam. - Bề mặt nằm có lớp lót cotton êm cùng thiết kế hình quả dưa hấu với 3 mặt bao quanh nhằm tạo cho thú cưng của bạn cảm giác được che chở an toàn và ấm áp. - Nhà cho thú cưng sử dụng gam màu nổi bật kết hợp với những đường vân mô phỏng quả dưa hấu, đây chắc chắn sẽ là nơi thư giãn lý tưởng, làm hài lòng những chú cún con xinh xắn</description>
+    <image>/image/products/id028/028.jpg</image>
+    <pet>Dog</pet>
+    <category>furniture</category>
+    <brand>Flexi</brand>
+  </product>
+  <product>
+    <id>029</id>
+    <name>Hagen Kitty -Bàn chải Slicker tự động 30cm </name>
+    <price>240000</price>
+    <description>Sản phẩm giúp loại bỏ lông chết, cơ chế lấy lông bằng nút bấm dễ dàng, giúp lông trở nên óng mượt hơn, sản phẩm thích thích hợp cho tất cả giống chó.</description>
+    <image>/image/products/id029/029.jpg</image>
+    <pet>Dog</pet>
+    <category>others</category>
+    <brand>Davis</brand>
+  </product>
+  <product>
+    <id>030</id>
+    <name>Fay Pluto Snowing - Dầu tắm cao cấp chó 300ml</name>
+    <price>50000</price>
+    <description>Pluto Snowing là sản phẩm sữa tắm cao cấp chuyên dùng cho thú cưng lông trắng. Với tinh chất Ngọc Trai cùng tinh chất Sữa Dừa giúp lông thú yêu trắng sáng hoàn hảo một cách tự nhiên . đặc biệt công thức Free Sulface kết hợp với chiết xuất Aloevera Chăm sóc dịu nhẹ cho làn da thú cưng ,giữ ẩm ,làm mượt da lông giúp lông mềm mượt, dễ chải, hạn chế rụng lông.</description>
+    <image>/image/products/id030/030.jpg</image>
+    <pet>Dog</pet>
+    <category>others</category>
+    <brand>Davis</brand>
+  </product>
+	<product>
+    <id>031</id>
+    <name>Áo kẻ 3 lỗ kẻ sọc cho mèo con size M L XL</name>
+    <price>37000</price>
+    <description>Áo ba lỗ Summer có các size cho chó mèo từ 500g - 15kgChất liệu từ vải thun và được thiết kế dạng 3 lỗ, tạo sự thoải mái cho thú cưng nhưng vẫn giữ ấm tốt, trên thân áo có in hình hoạt hình dễ thươngÁo có độ co giãn tốt thích hợp cho mọi hoạt độngPhù hợp cho mọi giới tính của thú cưng</description>
+    <image>/image/products/id031/031.jpg</image>
+    <pet>Cat</pet>
+    <category>clothes</category>
+    <brand>Davis</brand>
+  </product>
+	<product>
+    <id>032</id>
+    <name>Đệm bông 3 màu sang trọng cao cấp</name>
+    <price>200000</price>
+    <description>[Tốt cho giấc ngủ]: Giường Thú cưng tròn cung cấp một nơi mềm mại, ấm cúng cho một con chó nhỏ hoặc mèo ngủ.
+				[Giảm lo lắng]: Tạo cảm giác an toàn cho giấc ngủ ngon hơn, thúc đẩy sức khỏe và hành vi tốt hơn, giảm lo lắng.
+				[Dễ dàng vệ sinh]: Vải có thể giặt bằng máy, chống nước và bụi bẩn, thân thiện với thú cưng, mang lại sự dọn dẹp nhanh  chóng và đơn giản.
+				[Lựa chọn khác nhau]: Có nhiều lựa chọn kích thước phù hợp cho vật nuôi của bạn
+				[Durable - Plush]: Đệm có chất lượng cao, bền siêu mềm, sang trọng, sử dụng trong thời gian dài.
+				Đệm hình tròn là lựa chọn lý tưởng cho vật nuôi thích cuộn tròn. Nó cung cấp một sự thoải mái tối ưu và yên tĩnh trong thời gian các bé ngủ. Cung cấp sức khỏe cho các bé sau mỗi giấc ngủ ngon^^</description>
+    <image>/image/products/id032/032.jpg</image>
+    <pet>Cat</pet>
+    <category>furniture</category>
+    <brand>FamiPet</brand>
+  </product>
+	<product>
+    <id>033</id>
+    <name>Cattree bằng gỗ (59x38x135cm) dành cho mèo</name>
+    <price>1050000</price>
+    <description>Nhà cây cho mèo cat Tree được thiết kế như 1 tòa nhà có đầy đủ nội thất là những món đồ chơi. Tạo sự hấp dẫn cho mèo cưng chơi đùa, nghỉ ngơi. Mèo có thể ngủ 14 tiếng một ngày trong cat tree. Thậm chí chơi đùa không biết mệt mỏi với nhà cây. Hoặc có thể leo lên leo xuống như bạn tập trên máy chạy bộ. Điều này giúp mèo giảm được những nguy cơ mắc các bệnh. Ví dụ như béo phì, chán ăn hoặc bị stress do lười vận động hoặc không có ai chơi đùa cùng chúng.Kích thước: 59 x 38 X 135cm.Trọng lượng: 6.5kg.</description>
+    <image>/image/products/id033/033.jpg</image>
+    <pet>Cat</pet>
+    <category>furniture</category>
+    <brand>Petty</brand>
+  </product>
+	<product>
+    <id>034</id>
+    <name>Áo Ong Mèo Cute mềm mại và thoải mái</name>
+    <price>45000</price>
+    <description>Quần áo chó mèo thú cưng: Áo con ong
+				Chất liệu: nhung mềm mại và thoải mái, giữ ấm tốt cho mèo yêu
+				Bạn có muốn bé mèo nhà bạn trở nên đặc biệt so với bạn bè xung quanh?
+				Với những bộ quần áo thú cưng thật đẹp và đầy cá tính, chúng tôi có thể giúp bé yêu nhà bạn tỏa sáng
+				Chất liệu mềm mại, êm ái Không kích ứng da, mẫu mã, kích thước đa dạng</description>
+    <image>/image/products/id034/034.jpg</image>
+    <pet>Cat</pet>
+    <category>clothes</category>
+    <brand>Davis</brand>
+  </product>
+	<product>
+    <id>035</id>
+    <name>Kính mắt cho mèo chiều ngang 8cm</name>
+    <price>60000</price>
+    <description>KÍNH MẮT XINH YÊU CHO CHÓ MÈO 
+				✨Kính mắt gọng tròn thời thượng giúp thú cưng của bạn trông thật cool ngầu và ngoài ra còn bảo vệ đôi mắt của boss khỏi ánh nắng khói bụi. 
+				✨Chiều ngang của kính là 8cm - phù hợp với các bé dưới 7kg. </description>
+    <image>/image/products/id035/035.jpg</image>
+    <pet>Cat</pet>
+    <category>accessory</category>
+    <brand>Davis</brand>
+  </product>
+	<product>
+    <id>036</id>
+    <name>Nhà vệ sinh mèo tự động PETJC</name>
+    <price>5800000</price>
+    <description>MÁY DỌN PHÂN MÈO TỰ ĐỘNG - PETJC
+				— Khuyến mãi đặc biệt: Tặng bộ 3 sản phẩm Máy uống nước có lọc - chén thuỷ tinh có đế - thảm silicon chống văng cát. 
+				Bảo Hành 6 tháng
+
+				Điện áp: 12V - Dùng cực kỳ ít điện năng, thoải mái cắm điện 24/24
+				Hộp chứa phân: 3 Lit
+				- Màn hình hiển thị trọng lượng, số lần đi vệ sinh.
+				- Chế độ tự động: Khi mèo đi xong, 5s sau máy sẽ tự động dọn, mèo ko còn dẫm phải phân cũ khi đi vệ sinh.
+				- Giảm thiểu mùi, không còn cảnh phòng hôi thối vì phân chưa được hốt kịp thời.
+				- Máy dễ dàng tháo lồng máy ra để vệ sinh.
+				- Chức năng an toàn: khi mèo nhảy vào khi máy đang quay, máy sẽ dừng quay ngay.
+				**** Khuyên dùng cát Bentonite, không phù hợp cát gỗ, cát thuỷ tinh...*</description>
+    <image>/image/products/id036/036.jpg</image>
+    <pet>Cat</pet>
+    <category>furniture</category>
+    <brand>PETJC Korea</brand>
+  </product>
+	<product>
+    <id>037</id>
+    <name>Thảm lót vệ sinh Thấm hút nhanh</name>
+    <price>170000</price>
+    <description>TẤM LÓT VỆ SINH CHO CHÓ MÈO
+
+				- Thấm hút nhanh
+				- Khử mùi, diệt khuẩn tốt, ngăn chặn sự phát triển vi khuẩn
+				- Mùi hương thu hút bản năng của chó mèo
+				- Có thể trải dưới khay vệ sinh chuyên dụng hoặc trực tiếp tại nơi muốn cún miu đi vệ sinh.
+				- Kích thước: 33x45 cm, 100 miếng/ hộp- shop có loại to kích thước 45x60 cm 50 miếng/ hộp
+				- Phù hợp cho tất cả các loại cún trong việc tạo thói quen đi vệ sinh đúng chỗ</description>
+    <image>/image/products/id037/037.jpg</image>
+    <pet>Cat</pet>
+    <category>others</category>
+    <brand>No brand</brand>
+  </product>
+	<product>
+    <id>038</id>
+    <name>Cần câu mèo - Dây thép dẻo Đủ màu sắc ngộ nghĩnh</name>
+    <price>280000</price>
+    <description>Dùng để chơi đùa cùng thú cưng của bạn.
+				Đủ màu sắc ngộ nghĩnh đáng yêu, thu hút thú cưng nhà bạn chơi đùa cùng Cần câu mèo, tăng cương khả năng vận động hoạt bát của thú cưng.
+				kích thích thú cưng vờn bắt.
+				Đồ chơi cần câu mèo dây thép, đỉnh đầu được gắn lông
+
+				Cần câu mèo, ngộ nghĩnh, dễ thương, với lông giả buộc vào cần câu, bạn sẽ tha hồ đùa giỡn với chú mèo của mình.</description>
+    <image>/image/products/id038/038.jpg</image>
+    <pet>Cat</pet>
+    <category>toy</category>
+    <brand>OEM</brand>
+  </product>
+	<product>
+    <id>039</id>
+    <name>Sữa tắm cao cấp SOS sáng màu lông </name>
+    <price>900000</price>
+    <description>Giúp làm sáng màu lông Loại bỏ bụi bẩn, khử mùi, diệt khuẩn Lưu giữ lại hương thơm lâu Đặc biệt không hại da Sữa Tắm SOS Dành Cho Mèo 530ml giúp làm sáng màu lông, loại bỏ bụi bẩn, khử mùi, diệt khuẩn, lưu giữ lại hương thơm lâu, đặc biệt không hại da.– Loại dành cho chó lông trắng, giữ màu lông trắng không bị ngả vàng, quý khách chỉ cần tắm 1 lần là có thể giúp bộ lông cải thiện độ trắng sáng, đặc biệt giúp lông mềm mượt, mịn và thơm lâu.– Loại dành cho chó màu lông nâu đỏ luôn giữ màu lông, đặc biệt sau khi tắm sẽ có màu đỏ đồng ánh kim.– Loại chuyên khử mùi cho tất cả các giống chó: với tính năng thơm lâu, giữ được mùi thơm và độ ẩm cho da,giúp cho các bé luôn thoải mái và không hôi– Loại chăm sóc lông, khử mùi, diệt khuẩn, phòng trừ ve rận cho tất cả các giống chó, với tính năng thích hợp cho nhiều giống chó, không gây kích ứng da.– Loại dành riêng cho mèo, với công thức đặc biệt phù hợp với da và lông của mèo sẽ giúp chúng có bộ lông mềm mượt và thơm lâu. Vì sao nên mua sữa tắm SOS dành cho chó mèo: Với nhiều loại sữa tắm SOS, mèo yêu hay cún cưng của bạn sẽ có loại sữa tắm SOS phù hợp. SOS luôn giữ cho lông thú cưng mềm mại, sạch sẽ. Đặc biệt, sản phẩm có khả năng kháng khuẩn cực tốt.</description>
+    <image>/image/products/id039/039.jpg</image>
+    <pet>Cat</pet>
+    <category>others</category>
+    <brand>S.O.S</brand>
+  </product>
+	<product>
+    <id>040</id>
+    <name>Tháp bóng lăn bằng nhựa cho mèo</name>
+    <price>180000</price>
+    <description>Mô tả Sản phẩm:
+				Loại sản phẩm: Đồ chơi thú cưng
+				Loại đồ chơi: Bàn xoay
+				Chất liệu: Nhựa
+				Màu sắc: Cam, Xanh lam, Xanh lục
+				Dành cho: Mèo
+				Đặc điểm: Bền
+				Nơi sử dụng: Trong nhà
+				Mùa thích hợp: Tất cả các mùa
+				Kích thước: 25 * 14 * 16 cm / 9,84 " * 5,51 " * 6,30 "
+				
+				Đặc điểm
+				1. Chất liệu: Sản phẩm này sử dụng chất liệu nhựa không độc hại và vô hại cho vật nuôi, món đồ chơi này rất bền với thời gian sử dụng lâu dài và có khả năng chống trầy xước.
+				2. Bảo vệ đồ nội thất: đồ chơi có thể tiêu tốn nhiều thời gian và sức lực của mèo giúp bảo vệ đồ đạc của bạn khỏi bị mèo cào xé
+				3. Tập thể dục: mèo có thể tập thể dục nhiều hơn thông qua món đồ chơi này để giúp thú cưng của bạn có cơ thể khỏe mạnh.
+				4. Người bạn tốt cho bé mèo của bạn: Món đồ chơi bàn xoay này có thể giúp bé mèo giải tỏa mọi căng thẳng và áp lực để giúp cho bé luôn luôn khỏe mạnh và có tinh thần sảng khoái.
+				5. Nhiều sự lựa chọn: đồ chơi bàn xoay này có thể tháo rời, có nghĩa là bạn có thể tự lắp ráp sản phẩm, có thể ráp từ một đến ba tầng. Sau khi lắp ráp hoàn thành, sản phẩm vẫn giữ được độ ổn định mà không bị rung.</description>
+    <image>/image/products/id040/040.jpg</image>
+    <pet>Cat</pet>
+    <category>toy</category>
+    <brand>Davis</brand>
+  	</product>
+	<product>
+    <id>041</id>
+    <name>Thức Ăn Mèo Vị Cá Biển Whiskas Adult Ocean Fish 3kg</name>
+    <price>283000</price>
+    <description>Hướng dẫn bảo quản	Bảo quản nơi khô ráo, thoáng mát
+				Hướng dẫn sử dụng: Ăn trực tiếp
+				Lưu ý	
+				Mèo từ 1 - 2kg cho ăn 15 - 35g / ngày
+				Mèo từ 2 - 3kg cho ăn từ 35 - 50g / ngày
+				Mèo nặng từ 3 - 4kg cho ăn từ 50 - 65g / ngày
+				Còn từ 4 - 5 kg thì cho ăn từ 65 - 85g / ngày
+				Xuất xứ	Thái Lan
+				Trọng lượng	3Kg
+				Thành phần	Ngũ cốc nguyên hạt (ngô và gạo), Gluten bột ngũ cốc, gia cầm và các sản phẩm từ gia cầm, bột đậu nành, dầu nành…</description>
+    <image>/image/products/id041/041.jpg</image>
+    <pet>Cat</pet>
+    <category>food</category>
+    <brand>Whiskas</brand>
+  </product>
+</products>
