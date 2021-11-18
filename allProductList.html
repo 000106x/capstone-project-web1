@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Little Paws | Tất cả sản phẩm</title>
+    <link rel="icon" href="../image/others/favicon-lp.ico">
+    <link href="../css/ProductList.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../css/responsive.css">
+    <link rel="stylesheet" href="../css/index.css">
+    <link rel="stylesheet" href="../css/grid.css">
+    <link href="../css/gototop.css" rel="stylesheet" />
+    <script src="https://www.w3schools.com/lib/w3.js"></script>
+    <script src="../javascript/functions.js"></script>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v9.0" nonce="awnppBc3"></script>
+</head>
+
+<body onload="loadAllProduct()">
+    <!--HEADER-->
+    <div w3-include-html="header.html"></div>
+
+    <!--BODY-->
+    <div>
+        <form action="ProductList.html" method="get">
+            <div class="container1">
+                <div style="background-color:whitesmoke"></div>
+                <div>
+                    <div style="width:100%; height:90px;"></div>
+                    <div class="mother"><input type="text" class="title" id="allproductlistTitle" name="choosedPet" value="" readonly></div>
+                    <div align="center" id="productList1" class="product"></div>
+                </div>
+                <div style="background-color:whitesmoke"></div>
+            </div>
+        </form>
+    </div>
+    
+
+    <!--FOOTER-->
+    <div w3-include-html="footer.html"></div>
+
+    <script>
+        w3.includeHTML();
+    </script>
+</body>
+</html>
+

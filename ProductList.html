@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Little Paws | Sản phẩm</title>
+    <link rel="icon" href="../image/others/favicon-lp.ico">
+    <script src="../javascript/functions.js"></script>
+    <link href="../css/ProductList.css" rel="stylesheet" />
+    <link href="../css/responsive.css" rel="stylesheet" />
+    <link href="../css/index.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../css/grid.css">
+    <link href="../css/gototop.css" rel="stylesheet" />
+    <script src="https://www.w3schools.com/lib/w3.js"></script>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v9.0" nonce="awnppBc3"></script>
+
+</head>
+
+<body onload="loadProduct()">
+    <!--HEADER-->
+    <div w3-include-html="header.html"></div>
+
+    <!--BODY-->
+    <div class="container0">
+        <div style="background-color:whitesmoke;"></div>
+        <div class="submenu__nav">
+            <div class="submenu">
+                <h3 class="submenu__heading">Mặt hàng</h3>
+                <input class="submenu__item" type="button" value="Đồ ăn" onclick="loadProduct('food')" /><br />
+                <input class="submenu__item" type="button" value="Phụ kiện" onclick="loadProduct('accessory')" /><br />
+                <input class="submenu__item" type="button" value="Quần áo" onclick="loadProduct('clothes')" /><br />
+                <input class="submenu__item" type="button" value="Đồ chơi" onclick="loadProduct('toy')" /><br />
+                <input class="submenu__item" type="button" value="Đồ nội thất" onclick="loadProduct('furniture')" /><br />
+                <input class="submenu__item" type="button" value="Khác" onclick="loadProduct('others')" /><br />
+            </div>
+        </div>
+
+        <div>
+            <div style="width:100%; height:90px;"></div>
+            <div id="productlistTitle" class="categoryname"></div>
+            <div id="productList" class="product" align="center"></div>
+        </div>
+
+        <div style="background-color:whitesmoke"></div>
+    </div>
+
+    <!--FOOTER-->
+    <div w3-include-html="footer.html"></div>
+
+    <script>
+        w3.includeHTML();
+    </script>
+</body>
+</html>

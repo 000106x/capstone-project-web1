@@ -1,0 +1,56 @@
+﻿
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Little Paws | Thanh toán</title>
+    <link rel="icon" href="../image/others/favicon-lp.ico">
+    <link rel="stylesheet" href="../css/payment.css">
+    <script src="../javascript/functions.js"></script>
+</head>
+
+<body onload="loadPayment()">
+    <div class="row">
+        <div class="col-75">
+            <div class="container">
+                <form name="infPayment">
+                    <div class="row">
+                        <div class="col-50">
+                            <h3>CHI TIẾT THANH TOÁN</h3>
+                            <label for="fname"> Họ và tên</label>
+                            <input type="text" id="fname" name="firstname" placeholder="Vũ Đại Toàn">
+                            <label for="email"> Email</label>
+                            <input type="text" id="email" name="email" placeholder="toanvd18406@st.uel.edu.vn">
+                            <label for="phone"> Số điện thoại</label>
+                            <input type="text" id="phone" name="phone" placeholder="0399778021">
+                            <label for="adr"> Địa chỉ</label>
+                            <input type="text" id="adr" name="address"
+                                    placeholder="66 Nguyễn Minh Châu, TT Thuận Nam, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận">
+                            <label for="paymentMethod">Phương thức thanh toán</label>
+                            <span class="payMethod"><input type="radio" name="paymentMethod" id="cod" checked="checked"> COD </span>
+                            <span class="payMethod"><input type="radio" name="paymentMethod" id="momo"> Pay Online via MoMo Wallet  </span>
+                            <span class="payMethod"><input type="radio" name="paymentMethod" id="bank"> Internet Banking </span>
+                            <label for="order_comments" class="note">Ghi chú đơn hàng</label>
+                            <textarea id="order_comments" class="txtarea" placeholder="Ghi chú cho người bán " rows="3"
+                                cols="5"></textarea>
+                        </div>
+                    </div>
+                    <label>
+                        <input type="checkbox" checked="checked" name="sameadr"> Nhân viên giao hàng sẽ giao đúng thông
+                        tin trên
+                    </label>
+                <div class="footer">
+                    <span class="total"><b>Tổng cộng:</b></span> <span id="paymenttotal" style="font-weight:bolder; color:red; margin:0px 45px 0px 10px"></span>
+                    <input type="button" value="Thanh toán" class="btnPayment" onclick="payment()" id="btnClick"/>
+                </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="/javascript/functions.js">      
+    </script>
+</body>
+
+</html>
